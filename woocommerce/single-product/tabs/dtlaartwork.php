@@ -10,7 +10,7 @@ global $woocommerce, $post, $product;
 
 <div class="">
 									<div>
-											<b>COLORS & PLACEMENTS</b>
+											<b>COLORS & PLACEMENTSzzzz</b>
 										<p>Due to the nature of decorating on various fabric blends, dye lots, as well as human involvement in the printing process there is a 3-5% tolerance in pms pantone matching as well as a 1/4" tolerance on placements of graphics in each direction. sample machines and production machines apply different pressure while printing and may result in a 3-5% tolerance on color from approved sample to bulk production.</p>
 	<b>ARTWORK FILES</b>
 	<p>Acceptable file formats; .psd, .ai, .pdf, .tiff, .eps, .png
